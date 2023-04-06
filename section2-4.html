@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Section 2-4</title>
+  </head>
+  <body>
+    <ul id="unorder-list">
+      <li>Rafai</li>
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact</li>
+      <ol class="order-list">
+        <li>Whangsaf</li>
+        <li>LinkedIn</li>
+        <li>Github</li>
+      </ol>
+      <li>Logout</li>
+    </ul>
+    <p class="text-paragraf"></p>
+    <br />
+    <br />
+
+    <script>
+      // section 2 (selecting Element)
+      // minimal 3 contoh
+      // getElementById()
+      let ul = document.getElementById("unorder-list");
+      // getElementByClassName()
+      let ol = document.getElementsByClassName("order-list")[0];
+      // querySelector()
+      let paragraph = document.querySelector(".text-paragraf");
+
+      // Section 3 (Traversing Elements)
+      // Minimal 3 contoh
+      // Get the parent element
+      let parentElementOl = ol.parentNode;
+      // Get Child Elements
+      let childElement = ol.firstChild;
+      // Get Next Siblings
+      let nextSibling = childElement.nextSibling;
+
+      // Section 4 (Manipulating Element)
+      // Minimal 3 contoh
+      // innerHTML
+      nextSibling.innerHTML = "Dibuat Oleh Rafai";
+      // textContent
+      paragraph.textContent = "Ini paragraf Text Content";
+      // after()
+      paragraph.after("ini memasukkan paragraf dengan after()");
+    </script>
+  </body>
+</html>

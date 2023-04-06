@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Muhammad Rafai</title>
+  </head>
+  <body>
+    <div id="container"></div>
+    <script>
+      // Menangkap div#container
+      let container = document.getElementById("container");
+
+      // Section 4 (Manipulating Elements)
+      // Minimal 3 contoh
+
+      // createElement()
+      let paragraph = document.createElement("p");
+      let input = document.createElement("input");
+
+      // InnerHTML
+      paragraph.innerHTML = "Ini inner HTML di dalam element yang dibuat dengan createElement";
+
+      // appentChild()
+      container.appendChild(paragraph);
+      container.appendChild(input);
+
+      // Section 5 (Working with Attributes)
+      // setAttribute
+      input.setAttribute("name", "test");
+      input.setAttribute("value", "Ini adalah value yang dibuat degan setAtribute()");
+
+      // getAttribute
+      let atributGet = input.getAttribute("value");
+      // Menampilkan isi value dari getAttribute()
+      console.log(atributGet);
+      // hasAttribute
+      // Melakukan pengecekan apabila memiliki atribut "value", maka true. jika tidak maka false
+      input.hasAttribute("value") ? console.log(true) : console.log(false);
+
+      
+      // Section 6 (Manipulating Element's Style)
+      // style property
+      paragraph.style.color = "tomato"; //Mengubah warna huruf jadi warna Tomato
+
+      //   getComputedStyle()
+      let computedStyle = getComputedStyle(paragraph);
+      console.log(computedStyle.color); //Menampilkan computed style warna huruf dari paragraph ke console
+
+      // Classlist Property
+      console.log(input.classList); //menampilkan classlist input ke console.log
+    </script>
+  </body>
+</html>
