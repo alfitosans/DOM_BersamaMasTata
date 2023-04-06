@@ -16,7 +16,7 @@ jawaban tertera pada file [Section2-4.html](https://github.com/alfitosans/tugas-
 ```html
 <body>
     <ul id="unorder-list">
-      <li>Rafai</li>
+      <li>Alfito</li>
       <li>Home</li>
       <li>About</li>
       <li>Contact</li>
@@ -53,7 +53,7 @@ jawaban tertera pada file [Section2-4.html](https://github.com/alfitosans/tugas-
       // Section 4 (Manipulating Element)
       // Minimal 3 contoh
       // innerHTML
-      nextSibling.innerHTML = "Dibuat Oleh Rafai";
+      nextSibling.innerHTML = "Dibuat Oleh Alfito";
       // textContent
       paragraph.textContent = "Ini paragraf Text Content";
       // after()
@@ -164,7 +164,7 @@ jawaban tertera pada file [Section7-8.html](https://github.com/alfitosans/tugas-
 
 
 ### Jawaban :
-jawaban tertera pada file [Jawaban Nomor 4.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/Jawaban%20Nomor%204.html "Github Rafai")
+jawaban tertera pada file [Jawaban Nomor 4.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/Jawaban%20Nomor%204.html "Github alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -203,7 +203,7 @@ Tampilkan prompt() untuk meminta inputan dari user. Tampilan teks ‘Sebutkan ke
 
 
 ### Jawaban :
-jawaban tertera pada file [Jawaban Nomor 5.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/Jawaban%20Nomor%205.html "Github Rafai")
+jawaban tertera pada file [Jawaban Nomor 5.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/Jawaban%20Nomor%205.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
