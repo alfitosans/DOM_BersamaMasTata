@@ -9,7 +9,7 @@
 1. Section 2-4 : Masing masing minimal 3 contoh dengan 1 usecase
 
 ### Jawaban :
-jawaban tertera pada file [Section2-4.html](https://github.com/alfitosans/Tugas-DOM-kak-Tata/blob/main/section2-4.html "Github Rafai")
+jawaban tertera pada file [Section2-4.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/section2-4.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -68,7 +68,7 @@ jawaban tertera pada file [Section2-4.html](https://github.com/alfitosans/Tugas-
 
 
 ### Jawaban :
-jawaban tertera pada file [Section4-6.html](https://github.com/alfitosans/Tugas-DOM-kak-Tata/blob/main/section4-6.html "Github Rafai")
+jawaban tertera pada file [Section4-6.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/section4-6.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -127,7 +127,7 @@ jawaban tertera pada file [Section4-6.html](https://github.com/alfitosans/Tugas-
 3.  Section 7-8 : Masing masing minimal 2 contoh dengan 2 usecase
 
 ### Jawaban :
-jawaban tertera pada file [Section7-8.html](https://github.com/alfitosans/Tugas-DOM-kak-Tata/blob/main/section7-8.html "Github Rafai")
+jawaban tertera pada file [Section7-8.html](https://github.com/alfitosans/tugas-js_dasar-masTata/blob/main/section7-8.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
